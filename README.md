@@ -1,5 +1,5 @@
 # Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="40px">
-### ***Welcome to my***   <img loading="lazy" src= "https://github.com/julianamilhomens/julianamilhomens/assets/152898159/1cf5fd10-22e9-407a-8ce0-77dd63f603a2" width="50" height="50"/>
+## ***Welcome to my*** <br></br><img loading="lazy" src="https://github.com/julianamilhomens/julianamilhomens/assets/152898159/2b9dcdb4-61ea-45f2-8da0-2bbc8868ecec" width="180"/>
 
 
 
