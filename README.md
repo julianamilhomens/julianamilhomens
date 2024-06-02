@@ -2,7 +2,8 @@
 
 <h1 align="center">  <i>Welcome to my</i>
   <br></br>
-  <img loading="lazy" src="https://github.com/julianamilhomens/julianamilhomens/assets/152898159/2b9dcdb4-61ea-45f2-8da0-2bbc8868ecec" width="200"/>
+  <img loading="lazy" src="https://github.com/julianamilhomens/julianamilhomens/assets/152898159/b4c37fc2-1575-4144-86f7-00a149fb8b93" width="100"/>
+
 </h1>
 
 <br></br>
